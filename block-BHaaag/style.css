@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(30, 32, 116);
+}
+h1 {
+    color: white;
+    font-size: 30px;
+}
+p {
+    color: white;
+}
+h2 {
+    color: green;
+    font-size: 25px;
+}
+p {
+    font-size: 13px;
+}
+h3 {
+    color: white;
+    font-size: 15px;
+}
+h4 {
+    color: white;
+    font-size: 20px;
+}
+h5 {
+    color: white;
+    font-size: 20px;
+}
+h2 {
+    color: green;
+    font-size: 30px;
+}
+a {
+    color: red;
+    font-size: 15px;
+}
+
