@@ -27,9 +27,12 @@ h4 {
     
 }
 h5 {
-    color: white;
+    color: white;   
+}
+.footer {
+    background-color: #11244d;
+    text-align: center;
 }
 a {
-    color: rgb(163, 15, 15);
-    margin-left: 50mm;    
+    color: red;
 }
