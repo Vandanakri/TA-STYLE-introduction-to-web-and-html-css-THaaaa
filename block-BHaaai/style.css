@@ -1,0 +1,35 @@
+body {
+    background-color:#22396a;
+}
+img {
+    width: 55mm; height: 60mm; margin-left: 150mm;
+}
+h1 {
+    margin-left: 154mm;
+    color: white;
+}
+heading {
+    margin-left: 135mm;
+    color: white;
+}
+h2 {
+    color:green;
+}
+p {
+    color: rgb(207, 205, 205);
+}
+h3 {
+    color: white;
+
+}
+h4 {
+    color: white;
+    
+}
+h5 {
+    color: white;
+}
+a {
+    color: rgb(163, 15, 15);
+    margin-left: 50mm;    
+}
